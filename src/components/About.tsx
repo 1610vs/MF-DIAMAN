@@ -12,7 +12,7 @@ const stats = [
 
 const infoItems = [
   { icon: User, label: 'Имя', value: 'Алексей Петров' },
-  { icon: MapPin, label: 'Локация', value: 'Москва, Россия' },
+  { icon: MapPin, label: 'Локация', value: 'Душанбе, Таджикистан' },
   { icon: Calendar, label: 'Опыт', value: '5+ лет' },
   { icon: GraduationCap, label: 'Образование', value: 'ВШЭ, Computer Science' },
 ];
