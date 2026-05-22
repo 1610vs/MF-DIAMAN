@@ -4,8 +4,8 @@ import { Mail, MapPin, Phone, Send, CheckCircle } from 'lucide-react';
 
 const contactInfo = [
   { icon: Mail, label: 'Email', value: 'alexey@example.com' },
-  { icon: Phone, label: 'Телефон', value: '+7 (999) 123-45-67' },
-  { icon: MapPin, label: 'Локация', value: 'Москва, Россия' },
+  { icon: Phone, label: 'Телефон', value: '+1 (999) 123-45-67' },
+  { icon: MapPin, label: 'Локация', value: 'Душанбе, Таджикистан' },
 ];
 
 export default function Contact() {
